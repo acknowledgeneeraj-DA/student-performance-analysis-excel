@@ -17,7 +17,7 @@ This Excel project analyzes student performance data to identify academic trends
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](student%20performance%20dashboard.png)
 
 ## Files Included
 - student_performance_updated_1000.xlsx
